@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course id="CSE101">
+        <name>Data Structures</name>
+        <instructor>Dr. A.P. Rao</instructor>
+        <credits>4</credits>
+    </course>
+    <course id="CSE102">
+        <name>Database Systems</name>
+        <instructor>Prof. Mehta</instructor>
+        <credits>3</credits>
+    </course>
+</courses>

@@ -1,0 +1,5 @@
+com\example\HelloServlet.class
+com\example\XMLPrinter.class
+com\example\GreetServlet.class
+com\example\beans\CgpaCalculatorBean.class
+com\example\CourseDOMServlet.class

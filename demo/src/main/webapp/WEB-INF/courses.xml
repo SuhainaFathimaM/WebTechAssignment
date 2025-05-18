@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course id="CSE101">
+        <name>Web Technology</name>
+        <instructor>Prof. Priadarshini</instructor>
+        <credits>3</credits>
+    </course>
+    <course id="CSE102">
+        <name>Data Structures</name>
+        <instructor>Dr. P. Nithya</instructor>
+        <instructorid>01</instructorid>
+        <credits>4</credits>
+    </course>
+    <course id="CSE103">
+        <name>Database Systems</name>
+        <instructor>Dr. Saraswathi</instructor>
+        <credits>3</credits>
+    </course>
+    
+</courses>
+  
